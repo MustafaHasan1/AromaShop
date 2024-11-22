@@ -1,0 +1,102 @@
+.body{
+    padding-left: 50px;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+
+}
+.navbar{
+    padding-top: 15px;
+
+ 
+}
+.logo , .icon , .list , .button{
+    float: left;
+    
+}
+.logo{
+    width: 30%;
+}
+.list{
+    width: 50%;
+}
+.list-item{
+    display: inline-block;
+    padding-left: 15px;
+}
+.nav-link{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.sec-2{
+    padding:20px ;
+}
+.main{
+    float: left;
+    width: 50%;
+    text-align: center;
+
+}
+.mai{
+    padding-top: 200px;
+}
+.mai p{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.mai button{
+    background-color: blue;
+    color: white;
+}
+
+
+
+/*start product img */
+.product{
+    float: left;
+    width: 32%;
+    padding-right: 10px;
+    margin-bottom: 30px;
+}
+.clearfix{
+    clear: both;
+}
+.product img{
+    width: 100%;
+}
+/*end product img */
+.product1{
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+.product1 img{
+    width: 80%;
+    margin-bottom: 30px;
+}
+.product1 .blue{
+    color: blue;
+}
+.product1 p{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.product1 h3{
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+.head{
+    margin-bottom: 15px;
+}
+.head h2{
+    font-size: 32px;
+}
